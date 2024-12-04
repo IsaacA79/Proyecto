@@ -4,7 +4,7 @@
   "source": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --no-scope-hoist "
   },
   "author": "Job Isaac Amador G.",
   "license": "MIT",
